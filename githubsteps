@@ -1,0 +1,5 @@
+1)git add file name
+2)git status
+3)a.git commit -m "message about file you are checking in"
+3)b.git commit -am "messsage" for both add and commit
+4) git push -set-upstream origin main
